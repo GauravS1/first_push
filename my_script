@@ -1,0 +1,6 @@
+echo "Showing The file name"
+echo $0
+echo "Showing the first parameter"
+echo $1
+echo "Showing  the second parameter"
+echo $2

@@ -1,0 +1,5 @@
+mkdir -p lists
+cd lists
+touch $1
+echo $2 >> $1
+cat $1

@@ -1,0 +1,1 @@
+print "Learning Ruby class2"
